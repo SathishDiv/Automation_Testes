@@ -7,13 +7,15 @@ public class First {
 		
 		System.out.println("i love BalajiAnna");
 		
-		System.out.println("i love sanamarin");
+		System.out.println("i love Datascience");
 		
-		System.out.println("i love rahman");
+		System.out.println("i love ArtificalIntelligence");
 		
-		System.out.println("i love imman");
+		System.out.println("i love cloudcomputing");
 		
-		System.out.println("i love sweety");
+		System.out.println("i love java");
+		
+		System.out.println("i love aws");
 	}
 
 }

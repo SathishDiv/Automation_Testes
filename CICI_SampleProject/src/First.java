@@ -6,6 +6,14 @@ public class First {
 
 		
 		System.out.println("i love BalajiAnna");
+		
+		System.out.println("i love sanamarin");
+		
+		System.out.println("i love rahman");
+		
+		System.out.println("i love imman");
+		
+		System.out.println("i love sweety");
 	}
 
 }
